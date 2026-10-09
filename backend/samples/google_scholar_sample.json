@@ -1,0 +1,63 @@
+{
+  "search_metadata": {
+    "id": "scholar_demo_001",
+    "status": "Success",
+    "created_at": "2026-10-01 10:00:00 UTC"
+  },
+  "search_information": {
+    "total_results": 128000,
+    "time_taken_displayed": 0.08
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Solar-driven interfacial evaporation for low-cost and scalable clean water purification",
+      "result_id": "scholar_1",
+      "link": "https://doi.org/10.1038/s41560-023-01314-z",
+      "snippet": "Interfacial solar steam generation represents a promising sustainable technology for producing drinkable water from contaminated and saline sources using low-cost carbonized biomass aerogels.",
+      "publication_info": {
+        "summary": "M Chen, Y Ding, P Zhang - Nature Energy, 2023 - nature.com"
+      }
+    },
+    {
+      "position": 2,
+      "title": "Low-cost point-of-use ceramic water filters enhanced with silver nanoparticles for rural communities",
+      "result_id": "scholar_2",
+      "link": "https://doi.org/10.1016/j.watres.2022.118942",
+      "snippet": "Clay ceramic pot filters impregnated with colloidal silver show >99.9% removal of Escherichia coli at under $5 per household manufacturing cost.",
+      "publication_info": {
+        "summary": "K Abebe, H Smith, L Miller - Water Research, 2022 - Elsevier"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Moringa oleifera seed coagulants combined with sand filtration for turbidity and pathogen removal",
+      "result_id": "scholar_3",
+      "link": "https://doi.org/10.1021/acs.est.1c04512",
+      "snippet": "Natural plant-based proteins act as eco-friendly coagulants, reducing water turbidity by 95% without chemical residues.",
+      "publication_info": {
+        "summary": "R Sharma, T Patel - Environmental Science & Technology, 2022 - ACS Publications"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Photocatalytic disinfection using sunlight-activated titanium dioxide on recycled glass substrates",
+      "result_id": "scholar_4",
+      "link": "https://doi.org/10.1016/j.apcatb.2023.122890",
+      "snippet": "Immobilized TiO2 films driven by natural solar UV achieve complete bacterial inactivation within 90 minutes of sun exposure.",
+      "publication_info": {
+        "summary": "J Garcia, S Lee - Applied Catalysis B: Environmental, 2023 - Elsevier"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Graphene oxide membranes for decentralized water desalinization: Techno-economic limitations and scale-up barriers",
+      "result_id": "scholar_5",
+      "link": "https://doi.org/10.1039/D2EE01452A",
+      "snippet": "While 2D nanofluidic channels provide high water flux, mechanical stability during backwashing remains an unresolved bottleneck for commercial deployment.",
+      "publication_info": {
+        "summary": "W Johnson, A Gupta - Energy & Environmental Science, 2024 - rsc.org"
+      }
+    }
+  ]
+}

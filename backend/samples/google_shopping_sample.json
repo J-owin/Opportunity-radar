@@ -1,0 +1,53 @@
+{
+  "search_metadata": {
+    "id": "shopping_demo_001",
+    "status": "Success"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "LifeStraw Personal Water Filter Straw for Hiking, Travel, and Emergency",
+      "link": "https://www.amazon.com/dp/B006QF3TW4",
+      "price": "$17.47",
+      "extracted_price": 17.47,
+      "source": "Amazon.com",
+      "snippet": "Removes 99.999999% of bacteria, parasites, and microplastics. Filters up to 1,000 gallons."
+    },
+    {
+      "position": 2,
+      "title": "Sawyer Products MINI Water Filtration System, Single Unit",
+      "link": "https://www.walmart.com/ip/Sawyer-MINI-Filter/24689012",
+      "price": "$24.95",
+      "extracted_price": 24.95,
+      "source": "Walmart",
+      "snippet": "0.1 Micron absolute hollow fiber membrane filter fits in palm of hand; rated up to 100,000 gallons."
+    },
+    {
+      "position": 3,
+      "title": "Aquatabs Emergency Water Purification Tablets (100-Pack)",
+      "link": "https://www.rei.com/product/881290/aquatabs",
+      "price": "$13.95",
+      "extracted_price": 13.95,
+      "source": "REI Co-op",
+      "snippet": "Effervescent chlorine tablets treat up to 200 quarts of clear water for international travel and camping."
+    },
+    {
+      "position": 4,
+      "title": "Survivor Filter Pro 0.01 Micron Nanofiltration Hand Pump Purifier",
+      "link": "https://survivorfilter.com/products/pro-filter",
+      "price": "$64.95",
+      "extracted_price": 64.95,
+      "source": "Survivor Filter",
+      "snippet": "Triple filtration system with ultra filter, carbon filter, and internal mesh for heavy duty survival use."
+    },
+    {
+      "position": 5,
+      "title": "Gravity-Fed Countertop Stainless Steel Dual Ceramic Filter Kit",
+      "link": "https://www.homedepot.com/p/countertop-gravity-filter/30129381",
+      "price": "$89.00",
+      "extracted_price": 89.00,
+      "source": "The Home Depot",
+      "snippet": "Requires no electricity or plumbing. Two 7-inch ceramic candle cartridges filter biological pathogens."
+    }
+  ]
+}

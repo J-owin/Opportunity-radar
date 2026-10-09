@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --color-radar-bg: #0B1020;
+  --color-radar-surface: #121935;
+  --color-radar-raised: #1A2347;
+  --color-radar-border: #223056;
+  --color-radar-text: #E8ECF8;
+  --color-radar-muted: #8FA0C8;
+  --color-radar-primary: #2DE2A6;
+  --color-radar-accent: #7C6CFF;
+  --color-radar-warning: #FFB020;
+  --color-radar-danger: #FF5D6C;
+}
+
+:root {
+  --background: #0B1020;
+  --foreground: #E8ECF8;
+}
+
+body {
+  background: #0B1020;
+  color: #E8ECF8;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .font-heading {
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+}
+
+.font-mono-numbers, code, pre, .font-mono {
+  font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+/* Radar Sweep Keyframe */
+@keyframes radar-sweep {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.radar-sweep-animate {
+  animation: radar-sweep 6s linear infinite;
+  transform-origin: center center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .radar-sweep-animate {
+    animation: none;
+  }
+}
+
+/* Custom glow utility */
+.radar-glow {
+  box-shadow: 0 0 25px rgba(45, 226, 166, 0.15);
+}
+
+.radar-glow-focus:focus-within {
+  box-shadow: 0 0 20px rgba(45, 226, 166, 0.25);
+  border-color: #2DE2A6;
+}

@@ -1,0 +1,66 @@
+{
+  "search_metadata": {
+    "id": "patents_demo_001",
+    "status": "Success"
+  },
+  "search_information": {
+    "total_results": 1420
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Gravity-fed multi-stage composite water filtration device and method of manufacture",
+      "patent_id": "US11485654B2",
+      "publication_number": "US11485654B2",
+      "link": "https://patents.google.com/patent/US11485654B2/en",
+      "snippet": "A low-cost gravity-driven filtration assembly having porous ceramic outer casing, an activated carbon core, and antimicrobial silver coating.",
+      "assignee": "AquaPure Global Innovations Inc.",
+      "inventor": "David R. Jenkins",
+      "grant_date": "2022-11-01"
+    },
+    {
+      "position": 2,
+      "title": "Low-pressure ultrafiltration membrane module for off-grid humanitarian water purification",
+      "patent_id": "EP3819267A1",
+      "publication_number": "EP3819267A1",
+      "link": "https://patents.google.com/patent/EP3819267A1/en",
+      "snippet": "Modular hollow-fiber cartridge operable at hydrostatic heads under 1 meter without electrical pumping requirements.",
+      "assignee": "CleanWater Tech AG",
+      "inventor": "Marcus Weber",
+      "grant_date": "2021-05-19"
+    },
+    {
+      "position": 3,
+      "title": "Solar distillation apparatus with tilted wick and latent heat recycling",
+      "patent_id": "WO2023049102A1",
+      "publication_number": "WO2023049102A1",
+      "link": "https://patents.google.com/patent/WO2023049102A1/en",
+      "snippet": "Multi-effect solar still utilizing hydrophobic capillary wicks to produce fresh water from seawater at low capital expenditure.",
+      "assignee": "SunWater Systems Co.",
+      "inventor": "Elena Rostova",
+      "grant_date": "2023-03-30"
+    },
+    {
+      "position": 4,
+      "title": "Electrochemical chlorination system using rechargeable battery and salt brine",
+      "patent_id": "US10927015B2",
+      "publication_number": "US10927015B2",
+      "link": "https://patents.google.com/patent/US10927015B2/en",
+      "snippet": "On-demand hypochlorite generation apparatus powered by a 5V USB solar panel for decentralized community wells.",
+      "assignee": "SafeHydration Foundation",
+      "inventor": "Samuel Osei",
+      "grant_date": "2021-02-23"
+    },
+    {
+      "position": 5,
+      "title": "Biochar adsorbent filter bed impregnated with iron oxide for arsenic and fluoride removal",
+      "patent_id": "IN202141012345A",
+      "publication_number": "IN202141012345A",
+      "link": "https://patents.google.com/patent/IN202141012345A/en",
+      "snippet": "Pyrolyzed agricultural waste matrix engineered to selectively capture heavy metals and toxic anions from groundwater.",
+      "assignee": "Indian Institute of Science Education",
+      "inventor": "Pooja Sundaram",
+      "grant_date": "2022-09-16"
+    }
+  ]
+}

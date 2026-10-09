@@ -1,0 +1,68 @@
+{
+  "search_metadata": {
+    "id": "jobs_demo_001",
+    "status": "Success"
+  },
+  "jobs_results": [
+    {
+      "title": "Water Treatment Process Engineer - Decentralized Systems",
+      "company_name": "DrinkWell Innovations",
+      "location": "Boston, MA (Hybrid)",
+      "via": "via LinkedIn",
+      "description": "Leading R&D for low-cost resin-based arsenic filtration media and community point-of-use distribution pilots across South Asia.",
+      "share_link": "https://www.linkedin.com/jobs/view/3920192831",
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      }
+    },
+    {
+      "title": "Field Deployment Lead, Clean Water Initiatives",
+      "company_name": "Charity: Water Partners",
+      "location": "Nairobi, Kenya",
+      "via": "via ReliefWeb",
+      "description": "Supervising field installation, water quality testing protocols, and sensor monitoring for low-cost community sand filtration stations.",
+      "share_link": "https://reliefweb.int/job/4019283/field-deployment-lead",
+      "detected_extensions": {
+        "posted_at": "1 week ago",
+        "schedule_type": "Full-time"
+      }
+    },
+    {
+      "title": "Materials Scientist - Ceramic Membranes",
+      "company_name": "CeramHydrate Technologies",
+      "location": "Austin, TX",
+      "via": "via Indeed",
+      "description": "Formulating porous clay compositions with nano-silver anti-biofouling dopants for low-cost gravity water filtration units.",
+      "share_link": "https://www.indeed.com/viewjob?jk=98ab219c0012",
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      }
+    },
+    {
+      "title": "Humanitarian Water & Sanitation (WASH) Specialist",
+      "company_name": "Oxfam International",
+      "location": "London, UK",
+      "via": "via Devex",
+      "description": "Evaluating emergency low-cost water purification solutions, flocculant packets, and gravity systems in post-disaster zones.",
+      "share_link": "https://www.devex.com/jobs/wash-specialist-102938",
+      "detected_extensions": {
+        "posted_at": "2 weeks ago",
+        "schedule_type": "Contract"
+      }
+    },
+    {
+      "title": "Product Quality & Safety Analyst - Water Filters",
+      "company_name": "LifeStraw / Vestergaard",
+      "location": "Lausanne, Switzerland",
+      "via": "via Glassdoor",
+      "description": "Ensuring NSF 42/53 standard compliance across consumer low-cost membrane filtration straw and pitcher product lines.",
+      "share_link": "https://www.glassdoor.com/job-listing/quality-analyst-lifestraw-12938",
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "schedule_type": "Full-time"
+      }
+    }
+  ]
+}

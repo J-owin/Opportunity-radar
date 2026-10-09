@@ -1,0 +1,58 @@
+{
+  "search_metadata": {
+    "id": "news_demo_001",
+    "status": "Success"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Breakthrough low-cost solar water purifier promises clean drinking water for off-grid villages",
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215101422.htm",
+      "snippet": "Researchers engineer a compact thermal evaporator using recycled cotton fabric that vaporizes water 3x faster under standard sunlight.",
+      "source": {
+        "name": "ScienceDaily"
+      },
+      "date": "Feb 15, 2026"
+    },
+    {
+      "position": 2,
+      "title": "Global water crisis accelerates demand for cheap, decentralized filtration technologies",
+      "link": "https://www.reuters.com/sustainability/water-crisis-cheap-filtration-2026-01-20/",
+      "snippet": "UN agencies call for open-hardware low-cost water purification designs to curb waterborne illnesses affecting 2 billion people worldwide.",
+      "source": {
+        "name": "Reuters"
+      },
+      "date": "Jan 20, 2026"
+    },
+    {
+      "position": 3,
+      "title": "Startup raises $4M to deploy ceramic gravity filters across East Africa",
+      "link": "https://techcrunch.com/2026/01/08/cleanpot-water-filtration-series-seed/",
+      "snippet": "CleanPot aims to manufacture locally sourced clay and rice-husk filter pots that eliminate 99.9% of bacteria without electricity.",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "date": "Jan 8, 2026"
+    },
+    {
+      "position": 4,
+      "title": "EPA awards research grants for community-scale PFAS and lead removal systems",
+      "link": "https://www.epa.gov/newsreleases/epa-grants-drinking-water-purification-2025",
+      "snippet": "Federal funding targets low-cost absorbent technologies capable of removing forever chemicals from rural municipal supplies.",
+      "source": {
+        "name": "EPA Newsroom"
+      },
+      "date": "Dec 12, 2025"
+    },
+    {
+      "position": 5,
+      "title": "Student inventors win global prize for bicycle-powered centrifugal water filter",
+      "link": "https://www.bbc.com/news/technology-68192301",
+      "snippet": "The pedal-driven device cleans 15 liters of river water in 10 minutes, using readily available spare bike parts and sand cartridges.",
+      "source": {
+        "name": "BBC News"
+      },
+      "date": "Nov 28, 2025"
+    }
+  ]
+}
